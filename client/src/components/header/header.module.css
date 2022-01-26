@@ -1,0 +1,18 @@
+.root {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(61, 61, 248);
+  padding: 14px;
+}
+
+.brand {
+  font-weight: 700;
+  font-size: 20px;
+  color: #fff;
+}
+
+.user {
+  margin-right: 2rem;
+  color: #fff;
+}

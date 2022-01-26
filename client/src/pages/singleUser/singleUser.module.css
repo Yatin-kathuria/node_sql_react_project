@@ -1,0 +1,8 @@
+.root {
+  padding: 60px 0;
+}
+
+.root form {
+  margin: 0 auto;
+  max-width: 320px;
+}
